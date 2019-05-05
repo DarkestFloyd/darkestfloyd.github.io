@@ -21,25 +21,14 @@
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About Me</title>
       <link>https://darkestfloyd.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://darkestfloyd.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://darkestfloyd.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestfloyd.github.io/contact/</guid>
-      <description>Feel free to email me at nischal (dot) bhatewara (at) gmail (dot) com or follow me, @darkestfloyd.</description>
+      <description>Hi, I am Nischal. I am currently a student at Northeastern University pursuing my Master&amp;rsquo;s in Data Science.
+I love geeking out on software and programming and always try to keep myself busy coding.
+You can follow me on Twitter for more, @darkestfloyd or connect with me on LinkedIn, nischalmc</description>
     </item>
     
   </channel>
