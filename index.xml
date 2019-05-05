@@ -42,14 +42,5 @@ Setup Some fun facts about Hugo:
       <description>Feel free to email me at nischal (dot) bhatewara (at) gmail (dot) com or follow me, @darkestfloyd.</description>
     </item>
     
-    <item>
-      <title>Projects</title>
-      <link>https://darkestfloyd.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestfloyd.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
   </channel>
 </rss>
