@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://darkestfloyd.github.io/posts/bias-variance/</loc>
+    <lastmod>2019-06-24T17:51:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://darkestfloyd.github.io/posts/</loc>
+    <lastmod>2019-06-24T17:51:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://darkestfloyd.github.io/</loc>
+    <lastmod>2019-06-24T17:51:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://darkestfloyd.github.io/projects/mura-viz/</loc>
     <lastmod>2019-01-05T17:52:11-04:00</lastmod>
   </url>
@@ -14,20 +31,8 @@
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/</loc>
-    <lastmod>2019-01-05T17:52:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://darkestfloyd.github.io/posts/lazy-loading-in-r/</loc>
     <lastmod>2018-11-01T16:36:39-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://darkestfloyd.github.io/posts/</loc>
-    <lastmod>2018-11-01T16:36:39-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
