@@ -3,70 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://darkestfloyd.github.io/posts/bias-variance/</loc>
+    <loc>https://nischalchand.github.io/posts/bias-variance/</loc>
     <lastmod>2019-06-24T17:51:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/posts/</loc>
+    <loc>https://nischalchand.github.io/</loc>
     <lastmod>2019-06-24T17:51:06-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/</loc>
+    <loc>https://nischalchand.github.io/posts/</loc>
     <lastmod>2019-06-24T17:51:06-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/projects/cardinalvis/</loc>
+    <loc>https://nischalchand.github.io/projects/cardinalvis/</loc>
     <lastmod>2019-05-24T17:56:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/projects/</loc>
+    <loc>https://nischalchand.github.io/projects/</loc>
     <lastmod>2019-05-24T17:56:55-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/projects/mura-viz/</loc>
+    <loc>https://nischalchand.github.io/projects/mura-viz/</loc>
     <lastmod>2019-01-05T17:52:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/posts/lazy-loading-in-r/</loc>
+    <loc>https://nischalchand.github.io/posts/lazy-loading-in-r/</loc>
     <lastmod>2018-11-01T16:36:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/projects/nl2code/</loc>
+    <loc>https://nischalchand.github.io/projects/nl2code/</loc>
     <lastmod>2018-01-05T17:52:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/projects/flashlight/</loc>
+    <loc>https://nischalchand.github.io/projects/flashlight/</loc>
     <lastmod>2017-10-05T17:52:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/about/</loc>
+    <loc>https://nischalchand.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://nischalchand.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/series/</loc>
-    <priority>0</priority>
+    <loc>https://nischalchand.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://darkestfloyd.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://nischalchand.github.io/tags/</loc>
   </url>
   
 </urlset>

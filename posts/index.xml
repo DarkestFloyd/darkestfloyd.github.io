@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on darkestfloyd</title>
-    <link>https://darkestfloyd.github.io/posts/</link>
-    <description>Recent content in Posts on darkestfloyd</description>
+    <title>Posts on nischalchand</title>
+    <link>https://nischalchand.github.io/posts/</link>
+    <description>Recent content in Posts on nischalchand</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Jun 2019 17:51:06 -0400</lastBuildDate>
     
-	<atom:link href="https://darkestfloyd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nischalchand.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bias and variance in linear models</title>
-      <link>https://darkestfloyd.github.io/posts/bias-variance/</link>
+      <link>https://nischalchand.github.io/posts/bias-variance/</link>
       <pubDate>Mon, 24 Jun 2019 17:51:06 -0400</pubDate>
       
-      <guid>https://darkestfloyd.github.io/posts/bias-variance/</guid>
+      <guid>https://nischalchand.github.io/posts/bias-variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lazy load data in R</title>
-      <link>https://darkestfloyd.github.io/posts/lazy-loading-in-r/</link>
+      <link>https://nischalchand.github.io/posts/lazy-loading-in-r/</link>
       <pubDate>Thu, 01 Nov 2018 16:36:39 -0400</pubDate>
       
-      <guid>https://darkestfloyd.github.io/posts/lazy-loading-in-r/</guid>
+      <guid>https://nischalchand.github.io/posts/lazy-loading-in-r/</guid>
       <description></description>
     </item>
     
